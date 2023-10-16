@@ -45,11 +45,11 @@ The SMS Spam Classifier project uses the SMS Spam Collection dataset, which cont
 
 ## Model
 
-The SMS Spam Classifier employs a machine learning model based on natural language processing techniques and a classification algorithm (e.g., Naive Bayes, Support Vector Machine, or deep learning models). The model is trained on the labeled dataset to learn patterns and features that distinguish spam messages from legitimate ones.
+The SMS Spam Classifier employs a machine learning model based on natural language processing techniques and a classification algorithm (Naive Bayes). The model is trained on the labeled dataset to learn patterns and features that distinguish spam messages from legitimate ones.
 
 ## Results
 
-The performance of the SMS Spam Classifier is evaluated based on metrics such as accuracy, precision, recall, and F1 score. The README will be updated with the specific results and performance metrics achieved by the model.
+The performance of the SMS Spam Classifier is evaluated based on metrics such as precision, recall, and F1 score, because the dataset is imbalanced 
 
 ## Live URL
 https://spamclassifier-b2btn6csl5kpyct5csq65j.streamlit.app/
