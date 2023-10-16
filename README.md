@@ -47,4 +47,4 @@ The SMS Spam Classifier employs a machine learning model based on natural langua
 The performance of the SMS Spam Classifier is evaluated based on metrics such as accuracy, precision, recall, and F1 score. The README will be updated with the specific results and performance metrics achieved by the model.
 
 ## Live URL
-https://spamclassifier-hudtqve92do66yxfv5decr.streamlit.app/
+https://spamclassifier-b2btn6csl5kpyct5csq65j.streamlit.app/
