@@ -7,6 +7,7 @@ This project aims to build a machine learning model to classify SMS messages as 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [image](#image)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
@@ -16,6 +17,10 @@ This project aims to build a machine learning model to classify SMS messages as 
 ## Introduction
 
 The SMS Spam Classifier is a machine learning project developed to help users identify and filter out spam messages from their inbox. It utilizes natural language processing techniques and a classification algorithm to predict whether an incoming SMS message is spam or not. The model's accuracy and performance make it a valuable tool for anyone looking to reduce the clutter in their messaging inbox.
+
+## image
+![image](https://github.com/AnalyticalShivam/spam_classifier/assets/93965065/18837d58-0714-45e2-9324-0f500d000f01)
+
 
 ## Installation
 
