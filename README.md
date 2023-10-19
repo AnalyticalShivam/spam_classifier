@@ -13,7 +13,7 @@ This project aims to build a machine learning model to classify SMS messages as 
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Live URL](#live url)
+- [LiveURL](#liveurl)
 
 ## Introduction
 
@@ -52,5 +52,5 @@ The SMS Spam Classifier employs a machine learning model based on natural langua
 
 The performance of the SMS Spam Classifier is evaluated based on metrics such as precision, recall, and F1 score, because the dataset is imbalanced 
 
-## Live URL
+## LiveURL
 https://spamclassifier-b2btn6csl5kpyct5csq65j.streamlit.app/
