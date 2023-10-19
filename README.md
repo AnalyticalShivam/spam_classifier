@@ -13,7 +13,7 @@ This project aims to build a machine learning model to classify SMS messages as 
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Live URL](#live url)
+- [Live URL](#liveurl)
 
 ## Introduction
 
